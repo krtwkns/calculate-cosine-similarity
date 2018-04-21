@@ -1,0 +1,15 @@
+{
+  "name": "calculate-cosine-similarity",
+  "version": "1.0.0",
+  "description": "Package for calculate cosine similarity with two array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kritoka-lab",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
