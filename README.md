@@ -2,6 +2,12 @@ Calculate Cosine Similarity
 ===
 > Calculate the [cosine similarity](http://en.wikipedia.org/wiki/Cosine_similarity) between two arrays.
 
+## Calculate Cosine Similarity
+
+Calculate Cosine Similarity is a package for calculate similarity between two arrays.
+
+This project from my undergraduate thesis'project. When i develope hoax analyze system i need package for calculate similarity between two arrays and i did not find it. So i create package for calculate similarity two arrays with cosine similarity algorithm
+
 ## Installation
 
 ``` bash
