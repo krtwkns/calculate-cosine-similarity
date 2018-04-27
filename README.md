@@ -2,7 +2,7 @@ Calculate Cosine Similarity
 ===
 > Calculate the [cosine similarity](http://en.wikipedia.org/wiki/Cosine_similarity) between two arrays.
 
-## Calculate Cosine Similarity
+## Description
 
 Calculate Cosine Similarity is a package for calculate similarity between two arrays.
 
